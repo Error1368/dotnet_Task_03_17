@@ -1,0 +1,11 @@
+D:\Work\Projects\C#\sem5\T0317\bin\Debug\T0317.exe.config
+D:\Work\Projects\C#\sem5\T0317\bin\Debug\T0317.exe
+D:\Work\Projects\C#\sem5\T0317\bin\Debug\T0317.pdb
+D:\Work\Projects\C#\sem5\T0317\obj\Debug\T0317.csprojAssemblyReference.cache
+D:\Work\Projects\C#\sem5\T0317\obj\Debug\T0317.Form1.resources
+D:\Work\Projects\C#\sem5\T0317\obj\Debug\T0317.FormAddCandy.resources
+D:\Work\Projects\C#\sem5\T0317\obj\Debug\T0317.Properties.Resources.resources
+D:\Work\Projects\C#\sem5\T0317\obj\Debug\T0317.csproj.GenerateResource.cache
+D:\Work\Projects\C#\sem5\T0317\obj\Debug\T0317.csproj.CoreCompileInputs.cache
+D:\Work\Projects\C#\sem5\T0317\obj\Debug\T0317.exe
+D:\Work\Projects\C#\sem5\T0317\obj\Debug\T0317.pdb
