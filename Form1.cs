@@ -27,10 +27,10 @@ namespace T0317
 
         private void buttonClearList_Click(object sender, EventArgs e)
         {
-            this.candies.Clear();
-            foreach (CandyState cs in this.candies_to_view)
+           foreach (CandyState cs in this.candies_to_view)
             {
                 cs.Visible = false;
+                this.candies.Remove(cs.candy);
             }
             this.candies_to_view.Clear();
             change_v_scroller();
